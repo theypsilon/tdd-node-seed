@@ -1,0 +1,17 @@
+{
+  "name": "tdd-node-seed",
+  "version": "0.0.0",
+  "repository" : {
+    "type" : "git", "url" : "https://github.com/theypsilon/tdd-node-seed.git"
+  },
+  "description": "TDD seed for node.js",
+  "author": "José Manuel Barroso Galindo <theyspilon@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "1.8.0",
+    "istanbul": "0.1.44",
+    "mocha": "1.20.1",
+    "sinon": "1.7.3"
+  }
+}
